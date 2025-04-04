@@ -1,2 +1,9 @@
 # Editor-di-Testo-QT
-Editor di Testo in QT per Progetto Programmazione C++ Bicocca
+Comprende:
+- EditorTesto.pro
+- main.cpp
+- mainwindow.cpp
+- mainwindow.h
+- findreplace.cpp
+- findreplace.h
+- mainwindow.ui
